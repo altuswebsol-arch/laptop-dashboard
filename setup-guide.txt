@@ -1,0 +1,42 @@
+🤖 LAPTOP BOT — SETUP GUIDE (Asif Bhai ke liye)
+
+STEP 1: Python install karo
+- Website kholo: https://www.python.org/downloads/
+- "Download Python" dabao, install karo
+- ⚠️ Zaroori: install karte waqt "Add python.exe to PATH" wala box TICK karna!
+
+STEP 2: Telegram Bot banao
+- Telegram kholo, search karo: @BotFather
+- Usay message bhejo: /newbot
+- Naam do (misal: Asif Ka Bot)
+- Username do (misal: asif_laptop_bot) — akhir mein "bot" hona chahiye
+- Wo ek TOKEN dega (lamba code) — usay COPY kar lo!
+
+STEP 3: Apni User ID nikalo
+- Telegram mein search karo: @userinfobot
+- Usay kuch bhi bhejo — wo tumhari ID dega (number)
+- Us number ko COPY kar lo!
+
+STEP 4: Bot file mein details dalo
+- bot.py file ko Notepad mein kholo
+- BOT_TOKEN = "..." mein apna token dalo
+- MY_USER_ID = 0 ki jagah apni ID dalo
+- File SAVE karo!
+
+STEP 5: Zaroori cheezain install karo
+- Windows mein CMD kholo (Start mein "cmd" likho)
+- Ye likho aur Enter dabao:
+  pip install python-telegram-bot Pillow mss
+
+STEP 6: Bot chalao!
+- bot.py wale folder mein CMD kholo
+- Ye likho: python bot.py
+- "Bot chal raha hai..." nazar aayega = KAMYAB! 🎉
+
+STEP 7: Test karo
+- Telegram mein apne bot ko /start bhejo
+- Jawab aayega: "Salam Asif Bhai!"
+- /shot bhejo — laptop ka screenshot aayega! 📸
+
+---
+Koi step samajh na aaye to Muse se poocho!
